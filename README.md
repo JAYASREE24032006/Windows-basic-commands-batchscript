@@ -1,22 +1,22 @@
-# EX8 - Windows-basic-commands-batchscript
+# EX8 - TO EXEXCUTE WINDOWS BASIC COMMANDS AND BATCH SCRIPTING
 
 ## AIM :
 To execute Windows basic commands and batch scripting
 
 ## DESIGN STEPS :
 
-### Step 1 :
+### STEP 1 :
 
 Navigate to any Windows environment installed on the system or installed inside a virtual environment like virtual box/vmware 
 
-### Step 2 :
+### STEP 2 :
 
 Write the Windows commands / batch file
 Save each script in a file with a .bat extension.
 Ensure you have the necessary permissions to perform the operations.
 Adapt paths as needed based on your system configuration.
 
-### Step 3 :
+### STEP 3 :
 
 Execute the necessary commands/batch file for the desired output. 
 
@@ -120,5 +120,6 @@ echo Backup completed successfully!
 
 
 ## RESULT :
-The commands/batch files are executed successfully.
+The commands/batch files to execute Windows basic commands and batch scripting
+are executed successfully.
 
